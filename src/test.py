@@ -3,3 +3,5 @@
 """ test.py: Try adding some code to this Python script. """
 
 print('Hello from Marko!')
+
+print('Hello Marko, Björn here')
